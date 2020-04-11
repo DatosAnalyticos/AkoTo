@@ -1,0 +1,7 @@
+{
+  "name": "AkoTo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

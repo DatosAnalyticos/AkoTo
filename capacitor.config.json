@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "AkoTo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
